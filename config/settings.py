@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-$o2xe&22sr6kme0*t*0q=88l=(6)#6a(=uvk3v_h115#&qy$7$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['test-task-loyalty-program-api.herokuapp.com']
 
 
 # Application definition
