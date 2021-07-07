@@ -1,6 +1,9 @@
 # Test-task-Loyalty-program-API
 
+App on Heroku:
 https://test-task-loyalty-program-api.herokuapp.com/loyalty/
+
+
 
 Бізнес-постановка:
 
