@@ -12,7 +12,7 @@ class ClientBalanceSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = ClientBalance
-        fields = ['name', 'partner', 'partner_name', 'points']
+        fields = ['pk', 'name', 'partner', 'partner_name', 'points']
 
 
 class TransactionSerializer(serializers.ModelSerializer):
